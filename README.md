@@ -1,36 +1,34 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# KryptoAnalyse: KI-gestützte Kryptowährungsanalyse-Plattform
 
-## Getting Started
+## Über das Projekt
 
-First, run the development server:
+KryptoAnalyse ist eine innovative Plattform, die modernste KI-Technologie nutzt, um detaillierte Analysen und Einblicke in den Kryptowährungsmarkt zu liefern. Unser Ziel ist es, Nutzern aller Erfahrungsstufen fundierte Daten für ihre eigenen Entscheidungen bereitzustellen.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun run dev
-```
+## Hauptfunktionen
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Echtzeitanalyse von Kryptowährungen
+- Datenaufbereitung für verschiedene Zeithorizonte
+- Benutzerfreundliche Oberfläche mit interaktiven Charts
+- KI-gestützte Markttrend-Analysen
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Technologie
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Dieses Projekt nutzt modernste Webtechnologien, um eine schnelle, responsive und skalierbare Plattform für Kryptowährungsanalysen zu gewährleisten.
 
-## Learn More
+## Unterstützung des Projekts
 
-To learn more about Next.js, take a look at the following resources:
+Wenn Sie die Entwicklung von KryptoAnalyse unterstützen möchten, können Sie dies auf folgende Weise tun:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- PayPal: [bkafes_it@yahoo.com](https://www.paypal.com/paypalme/bkafesit)
+- USDT (TRC20): `TWrhjNrdS4uZPzEvtsiQWKRVEKTgfoMMoq`
+- BTC: `bc1qx8nfxs7ce0z5cdgh4xpguk77eu4ujadns6fr4u`
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Lizenz und Copyright
 
-## Deploy on Vercel
+© 2023 Bahadir Kafes. Alle Rechte vorbehalten.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Dieses Projekt und alle zugehörigen Materialien sind urheberrechtlich geschützt. Jegliche unbefugte Nutzung, Reproduktion oder Verteilung ist strengstens untersagt.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Haftungsausschluss
+
+KryptoAnalyse bietet Marktanalysen und Datenaufbereitungen, die ausschließlich zu Informationszwecken dienen. Diese Informationen stellen keine Anlageberatung dar und sollten nicht als solche verstanden werden. Kryptowährungsinvestitionen sind hochriskant und können zu erheblichen Verlusten führen. Nutzer sollten ihre eigenen Recherchen durchführen und professionelle Finanzberater konsultieren, bevor sie Investitionsentscheidungen treffen.
